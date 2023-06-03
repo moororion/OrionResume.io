@@ -1,0 +1,70 @@
+
+
+body {background-color: grey  }
+
+.orionm{text-align: center;
+  background-color: darkgrey;
+  border-radius: 50px;
+width: px;
+  height: ;
+  font-family: cursive;
+}
+
+.Moormoney{height: 180px;
+border-radius: 50px;
+  position: absolute;
+  top: 10%;
+    left: 44%;
+      border: solid 5px black;
+}
+
+
+
+.copyright{text-align: center;
+Background-color: white;}
+
+.socials{background-color: red;
+text-align: center;
+width: 200px;
+display: inline-block;
+  left: 45%;
+  top: 40%;
+position: absolute; }
+
+.phonenumber{text-align: right;
+display: inline-block;
+border: solid orange;
+float: right;
+color: orange}
+
+.address{display: inline-block;
+text-align: left; 
+border: solid red;
+  float: 
+}
+
+.education {font-family: cursive;
+text-align: center;
+  background-color: brown;
+  
+}
+
+.instagram{border: solid 
+float: left
+display: inline;
+}
+
+.linkedin{float: right;
+display: inline;
+  
+}
+
+.parkcenter{height: 200px;
+  position: absolute;
+top: px;
+left: 560px;}
+
+.chipotle{height: 100px;}
+
+.bowlero{height: 150px;}
+
